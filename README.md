@@ -1,4 +1,4 @@
-PacMan
+**PacMan**
 
 Installation:
 I used Visual Studio Code to code and simply uploaded the files to GitHub.
