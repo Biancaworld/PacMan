@@ -6,12 +6,6 @@ I used Visual Studio Code to code and simply uploaded the files to GitHub.
 Usage:
 Just for fun, exercise programming concepts
 
-Support:
-N/A
-
-Roadmap:
-N/A
-
 License information:
 MIT License
 
